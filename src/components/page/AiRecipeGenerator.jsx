@@ -19,7 +19,7 @@ const AiRecipeGenerator = () => {
 
   // API key should be imported from a secure location
   // This is a placeholder - in production, use environment variables or a secure key management system
-  const API_KEY = "AIzaSyDtt9iTVZyMWurYKixqAO4CdfzGNFF3N2g"
+  // const API_KEY = "AIzaSyDtt9iTVZyMWurYKixqAO4CdfzGNFF3N2g"
 
   const tags = [
     { id: 'all', label: 'All Recipes', icon: '🍳' },
